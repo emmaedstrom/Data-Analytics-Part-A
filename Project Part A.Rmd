@@ -1,0 +1,103 @@
+---
+title: "Data Analytics II: Project Part A"
+author: |
+    | your group number here
+    | your names here
+    | your reg numbers here
+date: "2021-XX-XX"
+output: pdf_document
+df_print: paged
+geometry: margin=2cm
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+#Load needed libraries here
+
+```
+
+## A.1 - Explorative Data Analysis (EDA)
+
+
+```{r A.1.i}
+
+```
+
+Make your comments here
+
+```{r A.1.ii}
+
+```
+
+Make your comments here
+
+```{r A.1.iii}
+
+```
+
+How did you construct your histograms? 
+
+Do the variables income and age appear to be (approximately) normally distributed? 
+
+Can you think of a suitable distribution for the variable children? 
+
+
+## A.2 - Confidence Intervals
+
+
+```{r A.2.i}
+
+```
+
+Make your comments here
+
+```{r A.2.ii}
+
+```
+
+Make your comments here
+
+```{r A.2.iii}
+
+```
+
+Are the underlying assumptions for calculating such an interval satisfied for the current data? 
+
+## A.3 - Confidence Intervals and the Sample Size
+
+```{r A.3.i}
+
+```
+
+what is the required sample size?
+
+```{r A.3.ii}
+
+```
+
+Why it is costly to improve the ME by one unit? 
+
+Is the cost worth it compared to the improvement we gain?
+
+```{r A.3.iii}
+
+```
+
+Make your comments here
+
+What changes should be made to the confidence level as the size of the same increases? 
+
+What are the effects of doing this on our analysis?
+
+## A.4 - Confidence Intervals: Comparison of Population Means
+
+```{r A.4.i}
+
+```
+
+Are there any differences in the income variable for the segments “Travelers” and “Urban Hip”? 
+
+What are the underlying assumptions used to calculate this interval?
+
+Are they coherent with the current data? 
